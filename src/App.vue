@@ -1,8 +1,12 @@
 <script setup>
+import AboutSection from '@/components/AboutSection.vue'
 import ContactSection from '@/components/ContactSection.vue'
+import ExperienceSection from '@/components/ExperienceSection.vue'
 import FooterSecrtion from '@/components/FooterSecrtion.vue'
 import HeroSection from '@/components/HeroSection.vue'
 import Navbar from '@/components/Navbar.vue'
+import ProjectsSection from '@/components/ProjectsSection.vue'
+import SkillsSection from '@/components/SkillsSection.vue'
 </script>
 
 <template>
@@ -11,6 +15,10 @@ import Navbar from '@/components/Navbar.vue'
   >
     <Navbar />
     <HeroSection />
+    <AboutSection />
+    <SkillsSection />
+    <ProjectsSection />
+    <ExperienceSection />
     <ContactSection />
     <FooterSecrtion />
   </div>

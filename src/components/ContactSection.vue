@@ -14,7 +14,7 @@
         Interested in working together or just want to say hi? Feel free to reach out.
       </p>
 
-      <div class="flex flex-wrap gap-3">
+      <div class="flex flex-wrap gap-3 mb-10">
         <a
           href="mailto:thanaphatboonrak@hotmail.com"
           class="px-4 py-2 rounded-lg text-sm border transition-colors duration-200 border-gray-300 text-gray-600 hover:border-gray-400 hover:text-gray-900 dark:border-gray-700 dark:text-gray-300 dark:hover:border-gray-500 dark:hover:text-white"
